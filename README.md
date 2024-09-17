@@ -48,9 +48,9 @@ PROPOZYCJE:
 ---
 
 ### Krzychu:
-[Link do sklepu]()
+[Link do sklepu](https://demo.templatemonster.com/pl/demo/424803.html?_gl=1*mdhe68*_gcl_aw*R0NMLjE3MjY1NTMwNDEuRUFJYUlRb2JDaE1JZ0tuRTQ2SEppQU1WNEtsb0NSMU5veU9fRUFBWUFTQUFFZ0p6YlBEX0J3RQ..*_gcl_au*MjA1MDU5MDQ2Ny4xNzI2NTUxNTc1*_ga*NzY2NzgxMjkuMTcyNjU1MTU2OA..*_ga_FTPYEGT5LY*MTcyNjU1MTU2OC4xLjEuMTcyNjU1MzE3OS4xMy4wLjA.)
 
-<img src="starlearn.jpg" alt="drawing" width="200"/>
+<img src="12.png" alt="drawing" width="200"/>
 
 
 
