@@ -11,7 +11,7 @@ PROPOZYCJE:
 
 
 
-###Paweł: 
+### Paweł: 
 [Link do sklepu](https://preview.themeforest.net/item/techwix-technology-it-solutions-wordpress-theme/full_screen_preview/53797889)
 
 
