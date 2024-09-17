@@ -8,4 +8,4 @@ Stara strona: https://bcuskyport.katowice.pl/
 PROPOZYCJE:
 Paweł: 
 https://preview.themeforest.net/item/techwix-technology-it-solutions-wordpress-theme/full_screen_preview/53797889
-!(Techwix)[Technix.jpg]
+![Techwix](Technix.jpg)
