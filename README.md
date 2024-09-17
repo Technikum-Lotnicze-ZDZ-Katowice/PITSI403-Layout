@@ -2,7 +2,9 @@
 
 ZADANIE:
 Nowa strona BCU
+
 Informacje: https://www.zdz.katowice.pl/zapraszamy-na-szkolenia-w-bcu
+
 Stara strona: https://bcuskyport.katowice.pl/
 
 PROPOZYCJE:
