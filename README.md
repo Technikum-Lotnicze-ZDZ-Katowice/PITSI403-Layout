@@ -23,4 +23,5 @@ PROPOZYCJE:
 [Link do sklepu](https://elements.envato.com/edura-online-courses-education-wordpress-theme-A5T4N4W)
 
 <img src="Strona.png" alt="drawing" width="200"/>
+
 ---
