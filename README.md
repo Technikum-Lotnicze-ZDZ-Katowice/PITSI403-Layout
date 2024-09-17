@@ -32,3 +32,8 @@ PROPOZYCJE:
 <img src="image.psd.png" alt="drawing" width="200"/>
 
 ---
+
+### Marek:
+[Link do sklepu](https://www.templatemonster.com/pl/szablony-wordpress-99612.html)
+
+<img src="strona.jpg" alt="drawing" width="200"/>
