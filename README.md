@@ -37,3 +37,20 @@ PROPOZYCJE:
 [Link do sklepu](https://www.templatemonster.com/pl/szablony-wordpress-99612.html)
 
 <img src="strona.jpg" alt="drawing" width="200"/>
+
+---
+
+### Szymon:
+[Link do sklepu](https://demo.templatemonster.com/pl/demo/216238.html?_gl=1*9pct14*_gcl_aw*R0NMLjE3MjY1NTMwOTkuRUFJYUlRb2JDaE1JcU9DWHhLSEppQU1WcnAxb0NSMkFad2J4RUFBWUFpQUFFZ0kzal9EX0J3RQ..*_gcl_au*MTQzNjU4NzQ1My4xNzI2NTUxNTA4*_ga*MTMxMTYyNDkzNi4xNzI2NTUxNTAy*_ga_FTPYEGT5LY*MTcyNjU1MTUwMS4xLjEuMTcyNjU1MzEwMy41MS4wLjA.)
+
+<img src="starlearn.jpg" alt="drawing" width="200"/>
+
+---
+
+### Krzychu:
+[Link do sklepu]()
+
+<img src="starlearn.jpg" alt="drawing" width="200"/>
+
+
+
