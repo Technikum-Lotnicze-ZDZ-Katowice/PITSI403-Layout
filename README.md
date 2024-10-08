@@ -58,9 +58,13 @@ PROPOZYCJE:
 ZADANIE WORDPRESS 20241008:
 
 Mateusz - strona baru
+
 Oskar R. - klub szkolny
+
 Oskar - piekarnia
+
 Maks - podróże
+
 Marek - Punkt informacyjny miasta
 
 
