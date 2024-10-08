@@ -1,4 +1,7 @@
+
 # PITSI403-Layout
+
+
 
 ZADANIE:
 Nowa strona BCU
@@ -52,5 +55,12 @@ PROPOZYCJE:
 
 <img src="12.png" alt="drawing" width="200"/>
 
+ZADANIE WORDPRESS 20241008:
+
+Mateusz - strona baru
+Oskar R. - klub szkolny
+Oskar - piekarnia
+Maks - podróże
+Marek - Punkt informacyjny miasta
 
 
